@@ -1,0 +1,23 @@
+** Resultados PBL01 **
+
+* Catalisador Pt111
+Energia otimizada da Pt: -24.458 eV
+Tamanho do lattice: 3.967 \(Å\)
+Energia otimizada da Pt(111): -67.924 eV
+
+* Espécies Gasosas
+
+| Espécie    | Energia Otimizada (eV) |  H (eV) |
+|------------|------------------------|---------|
+| COOH trans |  -23.931               | -23.289 |
+| CO2        |  -22.960               | -22.555 |
+| H2         |  -6.766                | -6.409  |
+
+* Reações
+
+| Reação                                       | $\Delta E$ (eV)  | $\Delta H$ (eV) |
+|----------------------------------------------|------------------|-----------------|
+| $ COOH + ^* \rightleftarrows COOH^*$         |  -2.596          | -2.499          |
+| $ CO2 + * \rightleftarrows CO2*$             |  -0.012          | -0.00013        |
+| $ H2 + * \rightleftarrows 2 H*$              |  -0.905          | -0.767          |
+| $ CO2 + H2 + 2* \rightleftarrows CO2* + 2H*$ | -0.875           | -0.920          |
